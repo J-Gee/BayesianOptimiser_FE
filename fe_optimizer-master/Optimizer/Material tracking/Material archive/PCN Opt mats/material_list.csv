@@ -1,0 +1,12 @@
+Material,type,id1,amount1,id2,amount2,id3,amount3,id4,amount4,id5,amount5,id6,amount6,id7,amount7,id8,amount8
+PCAT_Gee-T/M/W,liquid,PCAT_Gee-T/M/W - 297113,60.75,,,,,,,,,,,,,,
+water,liquid,Water 1 - 161,107.5,,,,,,,,,,,,,,
+RhodamineB-1gL,liquid,Rhodamine B (1g/L) - 433892,29,,,,,,,,,,,,,,
+MethyleneB-250mgL,liquid,Methylene Blue - 462226,17.25,,,,,,,,,,,,,,
+AcidRed87-1gL,liquid,Acid Red 87 (1g/L) - 449418,24.25,,,,,,,,,,,,,,
+NaOH-1M,liquid,NaOH_1M - 462003,0.25,NaOH ss 2 - 464063,,NaOH ss 3 - 464066,,NaOH ss 4 - 464069,,NaOH ss 5 - 464072,,NaOH ss 6 - 464075,,NaOH ss 7 - 464078,,NaOH ss 8 - 464081,
+PCAT_Gee-pt/g-c3n4,solid,PCAT_Gee-pt/g-c3n4 - 297109,0.2542,,,,,,,,,,,,,,
+NaCl,subsampling,NaCl ss 1 - 466012,12,NaCl ss 2 - 466015,,NaCl ss 3 - 466018,,NaCl ss 4 - 466021,,NaCl ss 5 - 466024,,NaCl ss 6 - 466027,,NaCl ss 7 - 466030,,NaCl ss 8 - 466033,
+PVP-1wt,subsampling,PVP 1% in water - 454946,36,PVP (1wt%) 2 - 462009,1,PVP (1wt%) 3 - 462012,,PVP (1wt%) 4 - 462015,,PVP (1wt%) 5 - 462018,,PVP (1wt%) 6 - 462021,,PVP (1wt%) 7 - 462024,,PVP (1wt%) 8 - 462027,
+SDS-1wt,subsampling,SDS 1% in water - 454949,12,SDS (1wt%) 2 - 462030,,SDS (1wt%) 3 - 462033,,SDS (1wt%) 4 - 462036,,SDS (1wt%) 5 - 462039,,SDS (1wt%) 6 - 462042,,SDS (1wt%) 7 - 462045,,SDS (1wt%) 8 - 462048,
+Wash,Wash solution,,880,,,,,,,,,,,,,,

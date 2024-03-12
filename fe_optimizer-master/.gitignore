@@ -1,0 +1,71 @@
+# Compiled class file
+
+*.class
+
+ 
+
+# Log file
+
+*.log
+
+ 
+
+# BlueJ files
+
+*.ctxt
+
+ 
+
+# Mobile Tools for Java (J2ME)
+
+.mtj.tmp/
+
+ 
+
+# Package Files #
+
+*.war
+
+*.ear
+
+*.zip
+
+*.tar.gz
+
+ 
+
+ 
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+
+hs_err_pid*
+
+ 
+
+#output thigys
+
+**/log
+
+**/out
+
+**/production
+
+WorkflowCom/Quantos*
+
+WorkflowCom/Photocat*
+
+WorkflowCom/Liquidpump1*
+thirdparty/opencv/*
+**/bin
+
+hypotheses/*
+!hypotheses/tax_monday_templates
+
+**/.idea/workspace.xml
+
+.idea
+*/.idea
+/.DS_Store
+/.classpath
+/.project
+/.pydevproject

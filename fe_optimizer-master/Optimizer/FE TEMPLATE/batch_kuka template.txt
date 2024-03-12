@@ -1,0 +1,11 @@
+status:0
+sonication_time_min:0
+illumination_time_min:60
+gc_method:constant-HS rc
+purge_time:60
+cap_vials:1
+solid_dispensing_finish_date_time:
+rack_identifier:
+
+SampleIndex,SampleNumber,Name,vial_capped,gc_well_number,hydrogen_evolution,oxygen_evolution,hydrogen_evolution_micromol,oxygen_evolution_micromol,internal_hydrogen_standard_micromol,weighted_hydrogen_micromol,sample_location_weight,weighted_is_sl_hydrogen_evolution_micromol,pt/gcn2,TEOA-0-5VV,NaCl-3M,NaOH-1M,PVP-1wt,SDS-1wt,MethyleneB-250mgL,AcidRed87-1gL,RhodamineB-1gL,SodiumSilicate-1wt,water,pt/gcn2_dispensed,TEOA-0-5VV_dispensed,NaCl-3M_dispensed,NaOH-1M_dispensed,PVP-1wt_dispensed,SDS-1wt_dispensed,MethyleneB-250mgL_dispensed,AcidRed87-1gL_dispensed,RhodamineB-1gL_dispensed,SodiumSilicate-1wt_dispensed,water_dispensed
+${idx},${sample_number},${batch_name}_${sample_number},0,,,,,,,,,,${pt/gcn2},${TEOA-0-5VV},${NaCl-3M},${NaOH-1M},${PVP-1wt},${SDS-1wt},${MethyleneB-250mgL},${AcidRed87-1gL},${RhodamineB-1gL},${SodiumSilicate-1wt},${water},0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
